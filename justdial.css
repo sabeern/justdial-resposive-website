@@ -113,6 +113,10 @@ td:nth-child(odd) {
     color:#606060;
     padding-left:15px;
 }
+.link_menu:hover {
+    text-decoration:underline;
+    color:#0A3B86;
+}
 @media only screen and (max-width:1140px) {
     
     .row_inner_inner,nav,header {
